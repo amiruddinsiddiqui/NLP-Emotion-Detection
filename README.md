@@ -5,6 +5,11 @@ It classifies text into six emotions — *sadness, anger, love, surprise, fear,*
 
 ---
 
+## 🚀 Live Demo
+👉 [Click here to try the app](https://nlp-emotion-detection-a.streamlit.app/)
+
+---
+
 ## ⚙️ Tech Stack
 - Python 3.13.5  
 - scikit-learn 1.6.1  
